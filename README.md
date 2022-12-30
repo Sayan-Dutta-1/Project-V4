@@ -9,7 +9,7 @@ I have also created a customer support chatbot using AZURE BOT SERVICE & AZURE C
 
 ## ChatBot url
 https://webchat.botframework.com/embed/frt-chatbot-bot?s=pJg869Fsid8.L5F_Anbv-CKd2BUH67-7Ty-3VMeeLkl2LwO7LHhu2Dk
-## My Website(Azure) Link: https://kind-smoke-0dd8f7e10.2.azurestaticapps.net
+## My Website(Azure) Link: https://proud-tree-01aaa1f00.2.azurestaticapps.net
 
 ## Chatbot
 ![1](https://user-images.githubusercontent.com/113238898/210061792-752c5753-48fd-4e50-813b-71c5b0619031.png)
