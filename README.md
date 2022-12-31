@@ -17,7 +17,7 @@ https://webchat.botframework.com/embed/frt-chatbot-bot?s=pJg869Fsid8.L5F_Anbv-CK
 
 
 ## Home Page
-![1](https://user-images.githubusercontent.com/113238898/203523986-64bff396-0351-4afe-8129-b3e6d868a31a.png)
+![Pc](https://user-images.githubusercontent.com/113238898/210126961-df24ec27-6916-40f8-b5d5-089257333563.png)
 ![2](https://user-images.githubusercontent.com/113238898/203524037-9392d675-3f8c-4543-8ac2-3fc4f15cfcd2.png)
 ![3](https://user-images.githubusercontent.com/113238898/203524052-27cf5d05-f99e-4925-9a22-0c318f921422.png)
 
@@ -28,7 +28,7 @@ https://webchat.botframework.com/embed/frt-chatbot-bot?s=pJg869Fsid8.L5F_Anbv-CK
 ![1](https://user-images.githubusercontent.com/113238898/203524310-44542df0-2d43-4114-aca4-0e339054b855.png)
 
 ## Menu
-![Menu](https://user-images.githubusercontent.com/113238898/203524671-0c71fcd3-7e5d-4992-ba7f-c9bbb1095650.png)
+![mobile](https://user-images.githubusercontent.com/113238898/210126968-ad6d91c6-ea8a-4c58-abed-0bfec9f79c0c.png)
 
 ## Categories
 ![Categories](https://user-images.githubusercontent.com/113238898/203524754-e5c45a32-1cb6-43be-ab0e-25e1ab405e86.png)
