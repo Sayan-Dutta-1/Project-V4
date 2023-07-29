@@ -1,13 +1,16 @@
 ## Microsoft-Future-Ready-Talent-Final-Project(Version 4) by Sayan Dutta.
 I have created an E-Commerce website named Watches using HTML, CSS, JavaScript and Bootstrap.
-It helps the people chose Watches and wearables from a wide variety carefully Curated Products from recognized brands.
-It is a fully responsive E-store optimised for both mobile as well as PC usecases
-having various subsections like Men, Women, Brands, Sale and News consisting further dropdown menu.
-It also have a shopping or the order page and our contact details. We run dynamic discounts on the most
-wanted products which aids the customers in buying their desired products at an affordable price.
-I have also created a customer support chatbot using AZURE BOT SERVICE & AZURE COGNITIVE SERVICES and integrated it to my website,
+It helps people choose Watches and wearables from a wide variety of Carefully Curated Products from recognized brands.
+It is a fully responsive E-store optimised for both mobile as well as PC use cases
+having various subsections like Men, Women, Brands, Sale and News consisting of further dropdown menus.
+It also has a shopping or order page and our contact details. We run dynamic discounts on the most
+wanted products that aid the customers in buying their desired products at an affordable price.
+I have also created a customer support chatbot using AZURE BOT SERVICE & AZURE COGNITIVE SERVICES and integrated it into my website.
 
-## ChatBot url
+## Completion Certificate
+![Microsoft(FRT)- Internship - Copy_page](https://github.com/Sayan-Dutta-1/FRT-Project-V4/assets/113238898/7f60bdba-9724-409e-a9db-b71d30f47f01)
+
+## ChatBot URL
 https://webchat.botframework.com/embed/frt-chatbot-bot?s=pJg869Fsid8.L5F_Anbv-CKd2BUH67-7Ty-3VMeeLkl2LwO7LHhu2Dk
 ## My Website(Azure) Link: https://proud-tree-01aaa1f00.2.azurestaticapps.net
 
