@@ -7,6 +7,7 @@ It also has a shopping or order page and our contact details. We run dynamic dis
 wanted products that aid the customers in buying their desired products at an affordable price.
 I have also created a customer support chatbot using AZURE BOT SERVICE & AZURE COGNITIVE SERVICES and integrated it into my website.
 
+
 ## Completion Certificate
 ![Microsoft(FRT)- Internship - Copy_page](https://github.com/Sayan-Dutta-1/FRT-Project-V4/assets/113238898/7f60bdba-9724-409e-a9db-b71d30f47f01)
 
